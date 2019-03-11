@@ -22,15 +22,19 @@ Following steps were taken to implement the solution :
 # Screenshot
 
 Kaggle Submission shows 97.128% accuracy. The accuracy could have improved if model was allowed to run for more epochs (Currently model is trained with 1 epoch)
+
 ![image](https://user-images.githubusercontent.com/16362957/54154199-5af77d80-4467-11e9-9066-da02c98f005d.png)
 
 Leaderboard Ranking
+
 ![image](https://user-images.githubusercontent.com/16362957/54154231-6f3b7a80-4467-11e9-82d0-283d4e9ab2b9.png)
 
 Confusion Matrix of model's prediction
+
 ![image](https://user-images.githubusercontent.com/16362957/54154306-9eea8280-4467-11e9-9fc2-06ca0d08f8ac.png)
 
 Some examples where model predicted wrongly
+
 ![image](https://user-images.githubusercontent.com/16362957/54154355-bd507e00-4467-11e9-967e-6516c64ce6aa.png)
 
 # Credit
