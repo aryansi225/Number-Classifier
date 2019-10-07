@@ -37,5 +37,5 @@ Some examples where model predicted wrongly
 
 ![image](https://user-images.githubusercontent.com/16362957/54154355-bd507e00-4467-11e9-967e-6516c64ce6aa.png)
 
-# Credit
+# References
 https://www.kaggle.com/yassineghouzam/introduction-to-cnn-keras-0-997-top-6
