@@ -39,3 +39,12 @@ Some examples where model predicted wrongly
 
 # References
 https://www.kaggle.com/yassineghouzam/introduction-to-cnn-keras-0-997-top-6
+
+# My Original Contribution & Learnings
+
+Contribution =>
+None, reimplemented after understanding from the above kaggle kernel mentioned in references.
+
+Major Learnings => 
+Learnt how to use CNN for MNIST dataset.
+Learnt how to create more data using data augmentation when training set is too small or less challenging for model to generalize.
